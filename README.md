@@ -14,7 +14,8 @@
 
 3. Клонируйте репозиторий с тестами:
    ```bash
-   $git clone https://github.com/ek12D/Avito-QA-
+   !git clone https://github.com/ek12D/AvitoQA-
+   !cd AvitoQA-
 
 4. Запустите тесты с помощью команды:
    ```bash
