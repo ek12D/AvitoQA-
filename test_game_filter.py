@@ -1,4 +1,3 @@
-!pip install selenium pytest
 import time
 import pytest
 from selenium import webdriver
