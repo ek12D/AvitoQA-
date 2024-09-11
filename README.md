@@ -19,7 +19,7 @@
 
 4. Запустите тесты с помощью команды:
    ```bash
-   pytest test_game_filter.py
+   !pytest test_game_filter.py
 
 ## Структура файлов
 **test_game_filter.py** - содержит автоматизированные тесты для функционального тестирования.
